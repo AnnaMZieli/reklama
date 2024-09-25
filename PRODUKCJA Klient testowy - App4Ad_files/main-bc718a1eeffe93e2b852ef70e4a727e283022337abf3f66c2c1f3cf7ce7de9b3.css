@@ -1,0 +1,6 @@
+/* line 2, /app4adapp/app/assets/stylesheets/main.scss */
+.photo-preview {
+  max-width: 200px;
+  max-height: 200px;
+  border-radius: 3px;
+}
